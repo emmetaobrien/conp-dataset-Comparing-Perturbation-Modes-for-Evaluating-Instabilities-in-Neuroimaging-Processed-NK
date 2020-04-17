@@ -1,0 +1,75 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.3755199",
+        "identifierSource": "DOI"
+    },
+    "title": "Comparing Perturbation Modes for Evaluating Instabilities in Neuroimaging: Processed NKI-RS Subset (08/2019)",
+    "creators": [
+        {
+            "name": "Kiar, Gregory"
+        }
+    ],
+    "description": "<p>The processed subset of the NKI-RS dataset for evaluation of various perturbation modes when studying instabilities. Linked to the <a href=\"https://arxiv.org/abs/1908.10922\">pre-print found here</a>, can be visualized using the <a href=\"https://github.com/gkiar/stability-mca/blob/master/code/dipy_exploratory/mca_dipy_exploratory_analysis.ipynb\">plotting code here</a>, and generated with various <a href=\"https://github.com/gkiar/stability/tree/master/code/experiments/paper0_comparing_perturbation_modes\">scripts and launch configurations found here</a>.</p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "CC-BY-4.0"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "neuroimaging"
+        },
+        {
+            "value": "dataset"
+        },
+        {
+            "value": "connectomes"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "H5"
+            ],
+            "size": 57.0,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/3755200",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
